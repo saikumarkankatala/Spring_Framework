@@ -13,6 +13,9 @@ Dive into Spring Boot, a powerful extension of the Spring framework that simplif
 ### Learn Spring Framework
 Explore the core concepts of the Spring Framework, including dependency injection. This module is foundational for understanding how to develop robust, scalable Spring applications.
 
+###Myfirstwebapp 
+Myfirstwebapp is a Todo application developed as part of the learning modules for Spring Framework. This application is designed to demonstrate the use of the Spring Boot framework along with Spring Data JPA and Hibernate for managing relational data effectively. It features a simple yet functional web interface for managing a todo list
+
 ## Getting Started
 
 To get started with the projects in this repository, clone it and navigate into each module's directory:
