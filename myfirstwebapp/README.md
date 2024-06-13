@@ -19,10 +19,6 @@
 - **H2 Database**: In-memory database ideal for development purposes.
 - **MySQL**: Production-level database running in a Docker container for consistent deployment.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 What things you need to install the software and how to install them:
